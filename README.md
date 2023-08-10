@@ -1,9 +1,11 @@
 # "Turtle Maze - Python Maze Game using Turtle Graphics"
 - Introduction:
+
 Welcome to the Turtle Maze project! This program utilizes the Python turtle module to create an interactive maze game. Players navigate through a maze using keyboard inputs while a turtle character moves around the screen. The goal is to guide the turtle to reach the maze's exit, encountering obstacles and challenges along the way. This project is a fun and educational way to explore turtle graphics, problem-solving, and algorithmic thinking.
 
 - Algorithm:
-  Step 1: Import turtle and random modules.
+
+   Step 1: Import turtle and random modules.
 
   Step 2: Set up the screen, draw the maze, create the player, goal, and score turtles.
 
@@ -16,6 +18,7 @@ Welcome to the Turtle Maze project! This program utilizes the Python turtle modu
   Step 6: Exit game loop.
 
 - How to play the game:
+
   Here's a step-by-step guide on how to play the Turtle Maze game:
 1. Launch the game: Open the Python code file in a Python environment or IDE, and run the code to launch the Turtle Maze game.
 2. Explore the maze: Once the game starts, a turtle character will appear on the screen, representing the player. The turtle is initially placed at the maze entrance.
