@@ -4,10 +4,15 @@ Welcome to the Turtle Maze project! This program utilizes the Python turtle modu
 
 - Algorithm:
 Step 1: Import turtle and random modules.
+
 Step 2: Set up the screen, draw the maze, create the player, goal, and score turtles.
+
 Step 3: Create update_score() and show_error() functions.
+
 Step 4: Define movement functions and bind to arrow keys.
+
 Step 5: Enter main game loop and check for collisions.
+
 Step 6: Exit game loop.
 
 - How to play the game:
