@@ -1,1 +1,3 @@
-
+game short jmr
+no animation
+update win logo
